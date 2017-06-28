@@ -600,7 +600,7 @@ Phase 1 includes the following steps:
 
             Read-Only Domain Controllers
 
-            Group Policy Creators Owners
+            Group Policy Creator Owners
 
             Cryptographic Operators
 
@@ -641,7 +641,7 @@ Phase 1 includes the following steps:
 
             Read-Only Domain Controllers
 
-            Group Policy Creators Owners
+            Group Policy Creator Owners
 
             Cryptographic Operators
 
@@ -684,7 +684,7 @@ Phase 1 includes the following steps:
 
             Read-Only Domain Controllers
 
-            Group Policy Creators Owners
+            Group Policy Creator Owners
 
             Cryptographic Operators
 
@@ -720,7 +720,7 @@ Phase 1 includes the following steps:
 
             Read-Only Domain Controllers
 
-            Group Policy Creators Owners
+            Group Policy Creator Owners
 
             Cryptographic Operators
 
@@ -756,7 +756,7 @@ Phase 1 includes the following steps:
 
             Read-Only Domain Controllers
 
-            Group Policy Creators Owners
+            Group Policy Creator Owners
 
             Cryptographic Operators
 
